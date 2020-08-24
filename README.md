@@ -1,1 +1,5 @@
 # IBM-Digital-Badge
+
+The badge earner has demonstrated a good understanding and application of machine learning (ML) including when to use different ML techniques such as regression, classification, clustering and recommender systems. The individual has acquired the skills to use different machine learning libraries in Python, mainly Scikit-learn and Scipy, to generate and apply different types of ML algorithms such as decision trees, logistic regression, k-means, KNN, DBSCCAN, SVM and hierarchical clustering.
+
+IBM digital badges are an on-line credential that validate the skills you acquired passing this course. You can share IBM digital badges on popular social media sites, such as Linked-In, Twitter or Facebook. Each badge you earn has a unique URL that you can embed in a website, email or CV, so it could not be easier to share your badges and your achievements. IBM digital badges adhere to the global Open Badges Standard managed by the IMS Global Learning Consortium, so you can also share IBM digital badges with any OBS-compliant badge site, such as Mozilla Backpack. IBM has partnered with Credly Acclaim to issue and manage IBM digital badges.
